@@ -17,6 +17,7 @@ dependencies = ["reflex>=0.4.2"]
 classifiers = ["Development Status :: 4 - Beta"]
 
 [project.urls]
+Homepage = "https://github.com/onexay/reflex-qrcode"
 
 [project.optional-dependencies]
 dev = ["build", "twine"]
