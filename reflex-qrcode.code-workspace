@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontLigatures": true,
+		"editor.formatOnSave": true,
+		"files.autoSave": "afterDelay"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-python.python",
+			"charliermarsh.ruff",
+			"GitHub.vscode-pull-request-github",
+			"ms-playwright.playwright",
+			"redhat.vscode-yaml",
+			"tamasfe.even-better-toml"
+		]
+	}
+}
